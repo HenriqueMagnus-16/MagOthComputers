@@ -1,0 +1,55 @@
+.azul{background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,60,103,1) 0%, rgba(0,149,255,1) 100%);
+width: 1900%;
+height: 100%;}
+
+td{width: 5.5%;
+height: 10%;}
+
+table{
+    height: 100vb;
+    width: 100%;
+}
+
+.Tamanho_Linha{width: 1900%;
+height: 107%;}
+
+#linha1{width: 128%;
+height: 35%;}
+
+#logo div{display: flex;
+justify-content: center;
+text-align: left;}
+
+#entrar div{display: flex;
+justify-content: center;}
+
+#criar div{display: flex;
+justify-content: center;}
+   
+.Acaba{width: 772%;
+height: 190%;}
+
+.tr4{width:265%;
+height:235%;
+}
+
+.espaço{
+    width: 20vh;
+}
+
+.quadro{
+    text-align: right;
+}
+
+.penultima{
+    height: 3vh;
+}
+
+.monitor{
+    text-align: center;
+}
+
+.logoht3{
+    text-align: center;
+}
